@@ -1,3 +1,4 @@
+clear
 echo " sekarang ToolsRenv3 masuk lebih cepat🗿"
 sleep 2
 clear
