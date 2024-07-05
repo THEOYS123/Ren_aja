@@ -1,4 +1,6 @@
 clear
+sleep 1
+clear
 echo " sekarang ToolsRenv3 masuk lebih cepat🗿"
 sleep 2
 clear
@@ -76,6 +78,7 @@ echo -e " \e[38;2;0;255;0m
 ||43.DDOS V6                             ||
 ||44.DDOS V7                             ||
 ||45.DDOS V8                             ||
+||46.DDOS V9                             ||
 ||=======================================||
 ||update                                 ||
 ||follow                                 ||
@@ -467,6 +470,14 @@ git clone https://github.com/Red-company/RDDoS_Tool.git
 cd RDDoS_Tool
 bash setup.sh
 python3 RDDoS_Tool.py
+fi
+if [ $ren9999 = 46 ]
+then
+sleep 1
+clear
+git clone https://github.com/what-and-you/update.git
+cd update
+python3 ddos-ren_enc.py
 fi
 if [ $ren9999 == 26 ]
 then
